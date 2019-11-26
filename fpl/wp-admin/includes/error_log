@@ -1,0 +1,40 @@
+[28-Jul-2019 02:28:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[04-Aug-2019 12:06:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[12-Aug-2019 03:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[20-Aug-2019 20:07:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[29-Aug-2019 15:36:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[07-Sep-2019 12:00:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[01-Oct-2019 20:13:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[18-Oct-2019 13:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[05-Nov-2019 17:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9
+[21-Nov-2019 16:57:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_network_admin() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-admin/includes/menu.php on line 9

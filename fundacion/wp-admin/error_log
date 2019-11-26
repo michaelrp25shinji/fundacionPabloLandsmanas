@@ -1,0 +1,37 @@
+[12-May-2019 23:02:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nuestra7/public_html/fundacion/wp-includes/formatting.php:5527) in /home/nuestra7/public_html/fundacion/wp-includes/pluggable.php on line 1251
+[12-May-2019 23:02:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nuestra7/public_html/fundacion/wp-includes/formatting.php:5527) in /home/nuestra7/public_html/fundacion/wp-includes/pluggable.php on line 1254
+[13-May-2019 00:13:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/slider.class.php:1888
+Stack trace:
+#0 /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/admin/revslider-admin.class.php(751): RevSliderSlider->importSliderFromPost('true', 'none', false, false, false, 'true')
+#1 /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/admin/revslider-admin.class.php(1264): RevSliderAdmin::importSliderHandle('http://www.nues...', 'true', 'none', 'true')
+#2 /home/nuestra7/public_html/fundacion/wp-includes/class-wp-hook.php(286): RevSliderAdmin::onAjaxAction('')
+#3 /home/nuestra7/public_html/fundacion/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home/nuestra7/public_html/fundacion/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/nuestra7/public_html/fundacion/wp-admin/admin-ajax.php(173): do_action('wp_ajax_revslid...')
+#6 {main}
+  thrown in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/slider.class.php on line 1888
+[13-May-2019 00:33:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function delete() on null in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/slider.class.php:1888
+Stack trace:
+#0 /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/admin/revslider-admin.class.php(751): RevSliderSlider->importSliderFromPost('true', 'none', false, false, false, 'true')
+#1 /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/admin/revslider-admin.class.php(1264): RevSliderAdmin::importSliderHandle('http://www.nues...', 'true', 'none', 'true')
+#2 /home/nuestra7/public_html/fundacion/wp-includes/class-wp-hook.php(286): RevSliderAdmin::onAjaxAction('')
+#3 /home/nuestra7/public_html/fundacion/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /home/nuestra7/public_html/fundacion/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#5 /home/nuestra7/public_html/fundacion/wp-admin/admin-ajax.php(173): do_action('wp_ajax_revslid...')
+#6 {main}
+  thrown in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/slider.class.php on line 1888
+[13-May-2019 04:49:53 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/beach_houses.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[13-May-2019 04:49:53 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/object_pen_1.png): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[13-May-2019 04:49:53 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/object_dvd_1.png): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[13-May-2019 04:49:53 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/forest_road_2.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[13-May-2019 04:49:53 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/relax_hammock.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[13-May-2019 04:49:54 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/object_plant_1.png): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[14-May-2019 03:43:20 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/beach_water.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[14-May-2019 03:43:20 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/beach_sea.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[14-May-2019 03:43:20 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/blurry_beach.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[14-May-2019 03:43:20 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/woman_beach.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[14-May-2019 03:43:20 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/beach_ocean.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[14-May-2019 03:43:20 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/surfer_beach.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[14-May-2019 03:43:24 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/ocean_stones.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[14-May-2019 03:43:24 UTC] PHP Warning:  getimagesize(/home/nuestra7/public_html/fundacion/wp-content/uploads/revslider/objects/beach.jpg): failed to open stream: No such file or directory in /home/nuestra7/public_html/fundacion/wp-content/plugins/revslider/includes/object-library.class.php on line 964
+[16-May-2019 04:03:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/nuestra7/public_html/fundacion/wp-content/themes/peak/framework/admin/shortcodes/tinymce/shortcodes-class.php on line 62

@@ -1,0 +1,4 @@
+[18-Oct-2019 13:18:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-content/plugins/the-events-calendar/src/deprecated/TribeEventsImporter_FileImporter_Venues.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/webkoltov/public_html/fundacionpablolandsmanas.org/fpl/wp-content/plugins/the-events-calendar/src/deprecated/TribeEventsImporter_FileImporter_Venues.php on line 2
